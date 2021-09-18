@@ -1,8 +1,8 @@
 [DEVICE]
 Name=ATMEGA16
-Clock=10000000
+Clock=8000000
 [FILES]
-File0=Trial.c
+File0=Code.c
 Count=1
 [BINARIES]
 Count=0
@@ -10,7 +10,7 @@ Count=0
 Count=0
 ActiveImageIndex=-1
 [OPENED_FILES]
-File0=Trial.c
+File0=Code.c
 Count=1
 [EEPROM]
 Count=0
@@ -20,15 +20,15 @@ Count=0
 Count=0
 [SEARCH_PATH]
 Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
-Path1=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
-Path2=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
-Path3=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Path1=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path2=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path3=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
 Count=4
 [HEADER_PATH]
 Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
-Path1=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
-Path2=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
-Path3=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Path1=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path2=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path3=..\..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
 Count=4
 [HEADERS]
 Count=0
@@ -99,7 +99,7 @@ Value=0
 [BUILD_TYPE]
 Value=0
 [ACTIVE_TAB]
-Value=Trial.c
+Value=Code.c
 [USE_EEPROM]
 Value=0
 [USE_HEAP]
