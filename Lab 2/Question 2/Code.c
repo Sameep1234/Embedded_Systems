@@ -1,9 +1,8 @@
 void T0Delay() {
      TCNT0 = 0x00;
-     OCR0 = 150;
-     TCCR0 = 0x09;
-     while((TIFR&0x02) == 0);
-     TIFR=0x02;
+     TCCR0 = 0x01;
+     while((TIFR&0x1) == 0);
+     TIFR=0x1;
 }
 void main() {
     DDRA = 0x01;
