@@ -1,0 +1,51 @@
+<circuit animate="0" reactStep="50" noLinAcc="5" Speed_per="100" type="simulide_0.4" Simu_Step_nS="1000" Speed_sps="1000000">
+
+Unique  Id: Battery-78: 
+Circuit Id: Battery-78
+<item id="Battery-78" y="-328" Show_id="false" valLabelx="-10" circRot="0" Volts="5" vflip="1" itemtype="Battery" Show_Volt="true" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Battery-78" x="-540" hflip="1" labely="-22" mainComp="false" labelx="-18" valLabely="10" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Seven Segment-76: 
+Circuit Id: Seven Segment-76
+<item id="Seven Segment-76" Resistance="1" y="-408" Show_id="false" valLabelx="0" circRot="1.1308885956544462e-316" vflip="1" itemtype="Seven Segment" Color="0" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Seven Segment-76" x="-548" Threshold="2.3999999999999999" CommonCathode="true" hflip="1" NumDisplays="1" labely="-44" mainComp="false" labelx="20" valLabely="0" Vertical_Pins="false" rotation="0" MaxCurrent="0.02" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: atmega16-75: 
+Circuit Id: atmega16-75
+<item id="atmega16-75" y="-448" Show_id="true" valLabelx="0" circRot="3.1366628662778284e-315" vflip="1" itemtype="AVR" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="atmega16-75" x="-716" Logic_Symbol="false" Name="" Auto_Load="false" hflip="1" Init_gdb="false" Mhz="16" labely="-20" mainComp="false" labelx="0" valLabely="0" varList="" rotation="0" valLabRot="0" labelrot="0" circPos="0,0" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" Program=""/>
+
+Unique  Id: TextComponent-29: 
+Circuit Id: TextComponent-29
+<item id="TextComponent-29" Border="1" y="-520" Show_id="false" valLabelx="0" circRot="0" Text="AU1940049 Sameep Vani" Fixed_Width="false" vflip="1" itemtype="TextComponent" Opacity="1" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="TextComponent-29" x="-712" Margin="5" hflip="1" Font_Size="10" labely="-24" mainComp="false" labelx="-16" valLabely="0" rotation="0" valLabRot="0" Font="Helvetica [Cronyx]" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-79: 
+Circuit Id: Connector-79
+<item id="Connector-79" y="-376" Show_id="false" valLabelx="0" enodeid="enode-79" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-79" x="-556" hflip="1" endpinid="Battery-78-Pin0" startpinid="Seven Segment-76-pin_dot" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-556,-376,-556,-328" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-81: 
+Circuit Id: Connector-81
+<item id="Connector-81" y="-432" Show_id="false" valLabelx="0" enodeid="enode-81" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-81" x="-572" hflip="1" endpinid="atmega16-75-PA0" startpinid="Seven Segment-76-pin_a" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-432,-580,-432,-580,-440,-660,-440" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-82: 
+Circuit Id: Connector-82
+<item id="Connector-82" y="-424" Show_id="false" valLabelx="0" enodeid="enode-82" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-82" x="-572" hflip="1" endpinid="atmega16-75-PA1" startpinid="Seven Segment-76-pin_b" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-424,-588,-424,-588,-432,-660,-432" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-83: 
+Circuit Id: Connector-83
+<item id="Connector-83" y="-416" Show_id="false" valLabelx="0" enodeid="enode-83" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-83" x="-572" hflip="1" endpinid="atmega16-75-PA2" startpinid="Seven Segment-76-pin_c" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-416,-596,-416,-596,-424,-660,-424" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-84: 
+Circuit Id: Connector-84
+<item id="Connector-84" y="-408" Show_id="false" valLabelx="0" enodeid="enode-84" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-84" x="-572" hflip="1" endpinid="atmega16-75-PA3" startpinid="Seven Segment-76-pin_d" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-408,-604,-408,-604,-416,-660,-416" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-85: 
+Circuit Id: Connector-85
+<item id="Connector-85" y="-400" Show_id="false" valLabelx="0" enodeid="enode-85" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-85" x="-572" hflip="1" endpinid="atmega16-75-PA4" startpinid="Seven Segment-76-pin_e" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-400,-612,-400,-612,-408,-660,-408" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-86: 
+Circuit Id: Connector-86
+<item id="Connector-86" y="-392" Show_id="false" valLabelx="0" enodeid="enode-86" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-86" x="-572" hflip="1" endpinid="atmega16-75-PA5" startpinid="Seven Segment-76-pin_f" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-392,-620,-392,-620,-400,-660,-400" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+
+Unique  Id: Connector-87: 
+Circuit Id: Connector-87
+<item id="Connector-87" y="-384" Show_id="false" valLabelx="0" enodeid="enode-87" circRot="0" vflip="1" itemtype="Connector" boardPos="-1e+06,-1e+06" boardRot="-1000000" objectName="Connector-87" x="-572" hflip="1" endpinid="atmega16-75-PA6" startpinid="Seven Segment-76-pin_g" labely="-24" mainComp="false" labelx="-16" valLabely="0" pointList="-572,-384,-628,-384,-628,-392,-660,-392" rotation="0" valLabRot="0" labelrot="0" circPos="0,0"/>
+ 
+</circuit>
