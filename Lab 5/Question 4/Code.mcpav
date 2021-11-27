@@ -26,7 +26,8 @@ Count=0
 Count=0
 ActiveImageIndex=-1
 [OPENED_FILES]
-Count=0
+File0=Code.c
+Count=1
 [EEPROM]
 Count=0
 [ACTIVE_COMMENTS_FILES]
@@ -110,4 +111,5 @@ File56=TWI
 File57=UART
 Count=58
 [EXPANDED_NODES]
-Count=0
+0=Code.mcpav
+Count=1

@@ -1,8 +1,10 @@
 #line 1 "C:/Users/Sameep/Desktop/AU/ESD/Lab 5/Question 4/Code.c"
+
+
 void main()
 {
  int flag = 0;
- DDRB = 0X04;
+ DDRB = 0X08;
 
  while (1)
  {

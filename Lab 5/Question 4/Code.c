@@ -1,7 +1,8 @@
+
 void main()
 {
     int flag = 0;
-    DDRB = 0X04;
+    DDRB = 0X08;
 
     while (1)
     {
@@ -20,3 +21,5 @@ void main()
         }
     }
 }
+
+
